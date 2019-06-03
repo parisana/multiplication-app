@@ -1,5 +1,6 @@
-package microservices.book.socialmultiplication.service;
+package microservices.book.socialmultiplication.service.implementation;
 
+import microservices.book.socialmultiplication.service.implementation.RandomGeneratorServiceImpl;
 import org.junit.Before;
 import org.junit.Test;
 

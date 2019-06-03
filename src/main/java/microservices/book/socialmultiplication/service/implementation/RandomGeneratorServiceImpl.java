@@ -1,5 +1,6 @@
-package microservices.book.socialmultiplication.service;
+package microservices.book.socialmultiplication.service.implementation;
 
+import microservices.book.socialmultiplication.service.RandomGeneratorService;
 import org.springframework.stereotype.Service;
 
 import java.util.Random;
